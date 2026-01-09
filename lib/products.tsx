@@ -1,0 +1,23 @@
+export const products = [
+  {
+    id: 1,
+    title: "Product 1",
+    price: 10,
+    image:
+      "https://i.pinimg.com/originals/9b/fc/19/9bfc19fa411ecac6393e8a45f36d0126.jpg",
+  },
+  {
+    id: 2,
+    title: "Product 2",
+    price: 20,
+    image:
+      "https://i5.walmartimages.com/seo/Neorosiri-Women-s-Soft-Leather-Tote-Shoulder-Bag-Large-Capacity-Handbag-with-Soft-Texture_b1bf1c83-8e19-4cc1-af16-eff406163154.7e988eaab09c1839cfd35060d14c7fc0.jpeg",
+  },
+  {
+    id: 3,
+    title: "Product 3",
+    price: 30,
+    image:
+      "https://cdn.kometia-static.com/bolsas-jennyfer/images/9434-5e_color-azul.jpg",
+  },
+];
